@@ -1,1 +1,1 @@
-# NLI-Based-Sql-Query-Traslator
+# NLP-Based-Sql-Query-Traslator
